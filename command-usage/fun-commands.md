@@ -8,33 +8,41 @@ description: >-
 
 ## Using Commands
 
-### m!Lenny
+### Lenny
 
 Sends a simple \( ͡° ͜ʖ ͡°\).
+
+Usage:
 
 ```
 m!Lenny
 ```
 
-### m!say
+### Say
 
 Have Meteoric say your message that you provide him with. Meteoric sends a embed to prevent @everyone and @here pings. If no content is provided, a blank embed will be sent.
+
+Usage:
 
 ```
 m!say [content]
 ```
 
-### m!fac
+### Fac
 
 Have Meteoric flip a coin. Heads or Tail.
+
+Usage:
 
 ```
 m!fac
 ```
 
-### m!hack
+### Hack
 
 Have the bot hack someone
+
+Usage:
 
 ```
 m!hack <@user>
