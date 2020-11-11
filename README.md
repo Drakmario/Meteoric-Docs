@@ -7,7 +7,7 @@ Meteoric is a all purpose bot, but it's main purpose is to be a Reddit and Moder
 
 ### Getting Setup
 
-When you are [inviting](https://discord.com/oauth2/authorize?client_id=734974153630810245&scope=bot&permissions=2146958847) Meteoric to your server make sure you give him the permissions he asks for \(administrator, manage server, etc\) and make sure his bot role \(unless a role is given to all bots on the server\) is above all other roles, that way he can perform all tasks finely.
+When you are [inviting](https://discord.com/oauth2/authorize?client_id=734974153630810245&scope=bot&permissions=2146958847) Meteoric to your server make sure you give him the permissions he asks for \(administrator, manage server, etc\) and make sure his bot role \(unless a role is given to all bots on the server\) is above the member role/@everyone role, that way he can perform all tasks finely especially moderation commands.
 
 ### ⚠
 Know that Meteoric could receive major updates that do require configuration.

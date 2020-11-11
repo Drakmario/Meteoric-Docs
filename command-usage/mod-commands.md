@@ -11,9 +11,9 @@ description: >-
 
 Add a role to a user.
 
-Author Permissions: Manage Roles
-Bot Permissions: Manage Roles
-Usage:
+* Author Permissions: Manage Roles
+* Bot Permissions: Manage Roles
+* Usage:
 
 ```
 m!addrole <@user> <@role>
@@ -23,9 +23,9 @@ m!addrole <@user> <@role>
 
 Remove a role from a user.
 
-Author Permissions: Manage Roles
-Bot Permissions: Manage Roles
-Usage:
+* Author Permissions: Manage Roles
+* Bot Permissions: Manage Roles
+* Usage:
 
 ```
 m!removerole <@user> <@role>
@@ -35,9 +35,9 @@ m!removerole <@user> <@role>
 
 Set/edit the slowmode for a channel. When defining the args for slowmode, define it as "s" for seconds. The max second duration possiable is 21600s.
 
-Author Permissions: Manage Channels
-Bot Permissions: Manage Channels
-Usage:
+* Author Permissions: Manage Channels
+* Bot Permissions: Manage Channels
+* Usage:
 
 ```
 m!slowmode <args>
@@ -47,9 +47,9 @@ m!slowmode <args>
 
 Delete a certain amount of messages defined by the message author. The bot can only purge a minimum of 2 and a maximum of 100.
 
-Author Permissions: Manage Messages
-Bot Permissions: Manage Messages
-Usage:
+* Author Permissions: Manage Messages
+* Bot Permissions: Manage Messages
+* Usage:
 
 ```
 m!purge <2-100>
@@ -61,9 +61,9 @@ m!purge <2-100>
 
 Warns a user with the reason defined by the author.
 
-Author Permissions: Manage Messages
-Bot Permissions: Manage Messages
-Usage:
+* Author Permissions: Manage Messages
+* Bot Permissions: Manage Messages
+* Usage:
 
 ```
 m!warn <@user | id> <reason>
@@ -73,9 +73,9 @@ m!warn <@user | id> <reason>
 
 Mutes a user for a set amount of time defined by the author. Duration examples are s - seconds, m - minutes, h - hours, d - days, and w -weeks. The max time that can be applied to a user is 24 days, if you go byond that limit the bot will cut it down to 1 second. A role named muted is required for this command to work. A reason can also be added for this mute, if nothing is provided for the reason it'll default to "No reason provided".
 
-Author Permissions: Manage Roles
-Bot Permissions: Manage Roles
-Usage:
+* Author Permissions: Manage Roles
+* Bot Permissions: Manage Roles
+* Usage:
 
 ```
 m!mute <@user> <time> [reason]
@@ -87,9 +87,9 @@ After the mute time for the user is up, a message will be sent to the same chann
 
 Unmutes a muted user. The bot will not unmute members that aren't muted. A reason can also be added for this unmute, if nothing is provided for the reason it'll default to "No reason provided".
 
-Author Permissions: Manage Roles
-Bot Permissions: Manage Roles
-Usage:
+* Author Permissions: Manage Roles
+* Bot Permissions: Manage Roles
+* Usage:
 
 ```
 m!unmute <@user> [reason]
@@ -99,9 +99,9 @@ m!unmute <@user> [reason]
 
 Kicks a user from the guild. A reason can be added for the kick, if nothing is provided it'll default to "No reason provided".
 
-Author Permissions: Kick Members
-Bot Permissions: Kick Members
-Usage:
+* Author Permissions: Kick Members
+* Bot Permissions: Kick Members
+* Usage:
 
 ```
 m!kick <@user> [reason]
@@ -111,9 +111,9 @@ m!kick <@user> [reason]
 
 Bans a user from the guild. A reason can be added for the ban, if nothing is provided it'll default to "No reason provided".
 
-Author Permissions: Ban Members
-Bot Permissions: Ban Members
-Usage:
+* Author Permissions: Ban Members
+* Bot Permissions: Ban Members
+* Usage:
 
 ```
 m!ban <@user> [reason]
