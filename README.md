@@ -36,7 +36,7 @@ m!, M!, !m, m? - Meteoric's prefixes \| A majority of the time we will be referr
 ## Command Usage
 
 * [Using commands](command-usage/using-commands.md)
-* [Reddit Commands](command-usage/untitled.md)
+* [Reddit Commands](command-usage/reddit-commands.md)
 * [Fun Commands](command-usage/fun-commands.md)
 * [Utility Commands](command-usage/utility-commands.md)
 
