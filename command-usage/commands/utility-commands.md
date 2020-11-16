@@ -66,5 +66,3 @@ Usage:
 ```
 m!servericon
 ```
-
-###### That's it for mod commands. It's time to got to our next section for [Information Commands](command-usage/information-commands.md).

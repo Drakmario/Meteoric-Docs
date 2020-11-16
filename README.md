@@ -27,23 +27,19 @@ m!, M!, !m, m? - Meteoric's prefixes \| A majority of the time we will be referr
 
 # Table of contents
 
-* [Main Page](README.md)
+## Main
 
-## Help Menus
+* [Main Page](README.md)
+* [Change Log](change-log.md)
+
+## Help Menu
 
 * [Help command](help-menus/help-command.md)
 
 ## Command Usage
 
 * [Using commands](command-usage/using-commands.md)
-* [Reddit Commands](command-usage/reddit-commands.md)
-* [Fun Commands](command-usage/fun-commands.md)
-* [Moderation Commands](command-usage/mod-commands.md)
-* [Utility Commands](command-usage/utility-commands.md)
-
----
-
-* [Change log](change-log.md)
-
-
-
+* [Reddit Commands](command-usage/commands/reddit-commands.md)
+* [Fun Commands](command-usage/commands/fun-commands.md)
+* [Moderation Commands](command-usage/commands/mod-commands.md)
+* [Utility Commands](command-usage/commands/utility-commands.md)

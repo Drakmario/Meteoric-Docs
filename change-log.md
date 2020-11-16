@@ -4,15 +4,16 @@ description: This page lists all the changes towards Meteoric.
 
 # Change log
 
-## v95.0.0 - 11-10-20
+## 11-15-20 update
+
+###### Dev note: Meteoric's commands have now been moved from one huge folder to folders corresponding towards their type. This will make it easier to fix bugs that occur during meteoric.
 
 ### Changed
 
-* m!whois - Now displays the user's badges.
-* m!serverinfo - Now displays the members' statuses.
-* m!help vote - Bot Universe is now listed.
+* Mention - Upong mentioning the bot, it'll you what it's prefix is.
+* Activity - Meteoric status now displays it's docs.
+* Ban command - Changes return messages to return embeds.
 
-### Fix
+### Fixed
 
-* Fixed a bug with m!add/remove role where the bot couldn't find the role.
-* Fixed the warn command to which it would say &lt;@undefined&gt;.
+* Fixed a bug with help command not showing the information about a command.

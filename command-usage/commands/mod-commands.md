@@ -118,5 +118,3 @@ Bans a user from the guild. A reason can be added for the ban, if nothing is pro
 ```
 m!ban <@user> [reason]
 ```
-
-###### That's it for mod commands. It's time to got to our next section for [Utility Commands](command-usage/utility-commands.md).

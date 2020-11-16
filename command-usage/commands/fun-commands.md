@@ -47,4 +47,3 @@ Usage:
 ```
 m!hack <@user>
 ```
-###### That's it for fun commands. It's time to got to our next section for [Moderation Commands](command-usage/mod-commands.md).

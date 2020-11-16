@@ -135,4 +135,3 @@ Get news and bugs about Discord from [r/discordapp](https://www.reddit.com/r/dis
 ```
 m!discord
 ```
-
