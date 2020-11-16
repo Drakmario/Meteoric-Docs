@@ -10,9 +10,8 @@ description: This page lists all the changes towards Meteoric.
 
 ### Changed
 
-* Mention - Upong mentioning the bot, it'll you what it's prefix is.
 * Activity - Meteoric status now displays it's docs.
-* Ban command - Changes return messages to return embeds.
+* Ban command - Changed return messages to return embeds.
 
 ### Fixed
 
