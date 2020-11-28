@@ -7,6 +7,19 @@ description: >-
 
 ## Using Commands
 
+### Poll
+
+Create a poll and send it to a channel using the bot. The bot will send the poll in a embed and will react to it with ✅ for yes and ❌ for no.
+
+* Author Permissions: Manage Messages
+* Bot Permissions: Manage Messages
+* Usage:
+
+```
+m!poll <channel> <topic>
+```
+
+
 ### Addrole
 
 Add a role to a user.

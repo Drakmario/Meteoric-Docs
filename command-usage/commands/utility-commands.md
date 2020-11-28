@@ -37,16 +37,6 @@ Usage:
 m!ping
 ```
 
-### Poll
-
-Create a poll and send it to a channel using the bot. The bot will send the poll in a embed and will react to it with ✅ for yes and ❌ for no.
-
-Usage:
-
-```
-m!poll <channel> <topic>
-```
-
 ### Avatar
 
 Displays your's or another user's avatar. Animated avatars are support with this command.

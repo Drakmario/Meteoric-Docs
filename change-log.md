@@ -4,15 +4,14 @@ description: This page lists all the changes towards Meteoric.
 
 # Change log
 
-## 11-15-20 update
-
-###### Dev note: Meteoric's commands have now been moved from one huge folder to folders corresponding towards their type. This will make it easier to fix bugs that occur during meteoric.
+## 11-28-20 update
 
 ### Changed
 
-* Activity - Meteoric status now displays it's docs.
-* Ban command - Changed return messages to return embeds.
+* Poll command - The command has now been changed to a moderation due to users using it to send polls to channels they're not allowed to talk in.
+* Invite command - "Add" is now aliase.
+* Help command - Moved poll command to moderation category. Added the link to meteoric's documents.
 
 ### Fixed
 
-* Fixed a bug with help command not showing the information about a command.
+* Meteoric's cooldown between commands have been changed from 5 seconds to 1 second.
