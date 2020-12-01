@@ -17,16 +17,6 @@ Usage:
 m!hi
 ```
 
-### Meteoric
-
-Have a talk with the bot. This command uses an API package to help meteoric simulate a human. This is still underwork though so the things meteoric says can be off topic.
-
-Usage:
-
-```
-m!meteoric [topic]
-```
-
 ### Ping
 
 Have the bot display the ping for both you and itself.

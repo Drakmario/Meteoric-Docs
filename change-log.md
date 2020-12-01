@@ -6,12 +6,20 @@ description: This page lists all the changes towards Meteoric.
 
 ## 11-28-20 update
 
+### Added
+
+###### New chat bot api
+
+* m!meteoric - The API for this command has been changed to **Some Random API** chatbot api. To see how to use this new api please check [Fun Commands](command-usage/commands/fun-commands.md).
+
 ### Changed
 
-* Poll command - The command has now been changed to a moderation due to users using it to send polls to channels they're not allowed to talk in.
-* Invite command - "Add" is now aliase.
-* Help command - Moved poll command to moderation category. Added the link to meteoric's documents.
+* Poll command - The bot no longer requires **Manage Message** permissions for itself to perform this command.
+* Meteoric command - Moved from Utility Commands to [Fun Commands](command-usage/commands/fun-commands.md).
+* Help command - Moved meteoric command to [Fun Commands](command-usage/commands/fun-commands.md).
+* Avatar command - The color of the embed is now Meteoric's main color.
+* ServerIcon command - Embed color changed to Meteoric's main color and no longer says "Server Icon" at top.
 
 ### Fixed
 
-* Meteoric's cooldown between commands have been changed from 5 seconds to 1 second.
+* Slowmode command - Fixed a grammar issue.

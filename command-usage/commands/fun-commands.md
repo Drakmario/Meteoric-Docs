@@ -47,3 +47,13 @@ Usage:
 ```
 m!hack <@user>
 ```
+
+### Meteoric
+
+Have a talk with the bot. This command uses Some Random API chatbot to simulate a human. You can ask anything and the bot will give a human-like respone. Defualt emojis (server ermojis work) will not work and return a error.
+
+Usage:
+
+```
+m!meteoric [topic]
+```
