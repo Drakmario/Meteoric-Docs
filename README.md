@@ -50,4 +50,5 @@ m!, M!, !m, m? - Meteoric's prefixes | A majority of the time we will be referri
 ## Meteoric Information
 
 Meteoric is a all purpose bot, but it's main purpose is to be a Reddit and Moderation bot. Meteoric is developed with [Discord.js](https://discord.js.org/#/) v12, [Node.js](https://nodejs.org/en/) v12.19.0, and is hosted with [Heroku](https://www.heroku.com/home). The bot is listed on many sites, a example is top.gg: 
+
 [![Discord Bots](https://top.gg/api/widget/734974153630810245.svg)](https://top.gg/bot/734974153630810245)
