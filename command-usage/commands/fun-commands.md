@@ -1,12 +1,6 @@
----
-description: >-
-  Meteoric's Fun Commands are..well...fun. None of these commands require role
-  permissions, at the moment.
----
-
-# Fun Commands
-
-## Using Commands
+> Fun commands | Catagory: Main Categories.
+>
+>> Meteoric provides fun commands to keep users entertained. ❕ - No commands require configuration | No commands require author nor bot to have certain permissions.
 
 ### Lenny
 
@@ -28,7 +22,7 @@ Usage:
 m!say [content]
 ```
 
-### Fac
+### FlipACoin
 
 Have Meteoric flip a coin. Heads or Tail.
 
@@ -38,9 +32,11 @@ Usage:
 m!fac
 ```
 
+* Aliases: fac
+
 ### Hack
 
-Have the bot hack someone
+Have the bot hack someone. ⚠ - This commands is completely fake, any information shown within this command is not real or have anything to do with the user.
 
 Usage:
 
@@ -48,12 +44,30 @@ Usage:
 m!hack <@user>
 ```
 
-### Meteoric
+### PP
 
-Have a talk with the bot. This command uses Some Random API chatbot to simulate a human. You can ask anything and the bot will give a human-like respone. Defualt emojis (server ermojis work) will not work and return a error.
+Ayyo you sus if you use this command?!?!
 
 Usage:
 
 ```
-m!meteoric [topic]
+m!pp [@user]
 ```
+
+* <summary>Aliases</summary>
+
+Aliases: penis
+
+</details>
+
+### pokemon
+
+See information about a pokemon
+
+Usage:
+
+```
+m!pokemon <pokemon>
+```
+
+* Aliases: pokémon, pokedéx, pokedex

@@ -1,6 +1,6 @@
-> Information commands | Catagory: Information.
+> Information commands | Catagory: Informal.
 >
->> Meteoric's Information commands help give users more info about someone/thing. That either being details about a account to showing the stats of a guild. None of these commands require any author permissions.
+>> Meteoric's Information commands help give users more info about someone/thing. That either being details about a account to showing the stats of a guild. ❕ - No commands require configuration | No commands require author nor bot to have certain permissions.
 
 ### Botinfo
 
@@ -15,7 +15,7 @@ Usage:
 m!botinfo
 ```
 
-* Aliases: info, information, Information, os.
+* Aliases: info, information, Information, os
 
 ### Userinfo
 
@@ -49,7 +49,7 @@ m!channelinfo [#channel]
 
 ### Roleinfo
 
-Shows the details about a role defined by the author.
+Shows the details about a role defined by the author
 
 * Author Permissions: None
 * Bot Permissions: None

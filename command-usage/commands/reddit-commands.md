@@ -1,12 +1,6 @@
----
-description: >-
-  Meteoric's Reddit commands use the npm Got and Random Puppy. None of these
-  commands use role permissions, allowing anyone to use them.
----
-
-# Reddit Commands
-
-## Reddit Commands
+> Reddit commands | Catagory: Main.
+>
+>> Meteoric's Reddit commands use the npm Got and Random Puppy. None of these commands use role permissions, allowing anyone to use them.
 
 ### Meme
 
