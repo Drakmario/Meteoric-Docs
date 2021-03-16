@@ -66,12 +66,9 @@ If you would like support, please join Meteoric's support guild [here](https://d
 
 ## Meteoric's Information
 
-<<<<<<< HEAD
 * Developed by - Drakmario | Discord: Drakmario#9362
 * Programmed in - [Discord.js](https://discord.js.org/#/) V12 | Using [Node.js](https://nodejs.org/en/) V12.19.0
 * Hosted with - [Heroku](https://www.heroku.com/home)
-=======
-Meteoric is a all purpose bot, but it's main purpose is to be a Reddit and Moderation bot. Meteoric is developed with [Discord.js](https://discord.js.org/#/) v12, [Node.js](https://nodejs.org/en/) v12.19.0, and is hosted with [Heroku](https://www.heroku.com/home). The bot is listed on many sites, a example is top.gg: 
+* Best Place to Find Meteoric: Top.gg
 
 [![Discord Bots](https://top.gg/api/widget/734974153630810245.svg)](https://top.gg/bot/734974153630810245)
->>>>>>> f0bdbb456cba3d4d633372a4b84410c8f565dd0e
