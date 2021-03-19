@@ -1,7 +1,7 @@
 
 # Main Page
 
-## ⚠ Meteoric Version 3 on **Coming Soon** ⚠
+## ⚠ Meteoric Version 3 is **Coming Soon** ⚠
 
 That's right, Meteoric Version 3 is coming soon. A release date is soon to be annouced.
 
@@ -10,7 +10,7 @@ Version 3 will bring:
 - A new Help Menu interface
 - Remaking of current commands
 - At least 1 or more new commands to each category
-- A much much more!
+- And much much more!
 
 More information will be release soon, I just wanted to give you all a heads up V3 is releasing soon.
 
