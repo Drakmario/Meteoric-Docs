@@ -54,11 +54,7 @@ Usage:
 m!pp [@user]
 ```
 
-* <summary>Aliases</summary>
-
-Aliases: penis
-
-</details>
+* Aliases: penis
 
 ### pokemon
 

@@ -1,7 +1,7 @@
 
 # Main Page
 
-## ⚠ Meteoric Version 3 on **Coming Soon** ⚠
+## ⚠ Meteoric Version 3 is **Coming Soon** ⚠
 
 That's right, Meteoric Version 3 is coming soon. A release date is soon to be annouced.
 
@@ -10,7 +10,7 @@ Version 3 will bring:
 - A new Help Menu interface
 - Remaking of current commands
 - At least 1 or more new commands to each category
-- A much much more!
+- And much much more!
 
 More information will be release soon, I just wanted to give you all a heads up V3 is releasing soon.
 
@@ -58,11 +58,11 @@ If you would like support, please join Meteoric's support guild [here](https://d
 ## Commands
 
 * [Using commands](command-usage/using-commands.md)
-* [Reddit Commands](command-usage/commands/reddit-commands.md)
-* [Fun Commands](command-usage/commands/fun-commands.md)
-* [Moderation Commands](command-usage/commands/mod-commands.md)
-* [Utility Commands](command-usage/commands/utility-commands.md)
-* [Information Commands](command-usage/commands/information-commands.md)
+* [Reddit Commands](commands/reddit-commands.md)
+* [Fun Commands](commands/fun-commands.md)
+* [Moderation Commands](commands/mod-commands.md)
+* [Utility Commands](commands/utility-commands.md)
+* [Information Commands](commands/information-commands.md)
 
 ## Meteoric's Information
 

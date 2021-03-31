@@ -1,7 +1,6 @@
----
-description: This page gives details on how to use such commands.
----
-
+> Using commands.
+>
+>> this page gives you details on how to use Meteoric's commands.
 # Using commands
 
 ## How do I find the commands?
