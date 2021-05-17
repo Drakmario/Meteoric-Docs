@@ -4,7 +4,7 @@ Meteoric is an advanced **Reddit**, **Moderation**, and **multi-purpose** bot, t
 
 ### Getting Setup
 
-When [inviting](https://discord.com/oauth2/authorize?client_id=734974153630810245&scope=bot&permissions=2146958847) Meteoric, make sure you have **Manage Server** on the guild you're adding the bot so you can invite it.
+When [inviting](https://discord.com/oauth2/authorize?client_id=734974153630810245&scope=bot&permissions=8589934583) Meteoric, make sure you have **Manage Server** on the guild you're adding the bot so you can invite it.
 
 After adding Meteoric to your server make sure you give him the permissions it asks for \(administrator, manage server, etc\) and make sure it's bot role \(unless a role is given to all bots on the server\) is above the member role/@everyone role, that way he can perform all tasks finely especially moderation commands.
 
